@@ -1,0 +1,10 @@
+rosdistro: 'melodic
+
+  '
+roslaunch:
+  uris: {host_ubuntu_18__36205: 'http://ubuntu-18:36205/'}
+rosversion: '1.14.13
+
+  '
+run_id: c82181b4-3f17-11f1-9880-000c29439465
+turtlesim: {background_b: 0, background_g: 0, background_r: 0}

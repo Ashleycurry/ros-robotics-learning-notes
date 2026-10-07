@@ -1,0 +1,10 @@
+string name
+int8 age
+int8 sex
+
+int8 unknown = 0
+int8 male = 1
+int8 female = 2
+
+---
+string result
